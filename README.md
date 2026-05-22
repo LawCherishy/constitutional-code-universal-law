@@ -4,7 +4,7 @@ This repository contains public-domain philosophical, ethical, governmental, and
 
 The full document is available here:
 
-- [The Constitutional Code of the Universal Law]()
+- [The Constitutional Code of the Universal Law](constitutional-code.md)
 
 ## Public Domain Dedication
 
